@@ -1,72 +1,139 @@
 [
     {
-        "company": "Microsoft",
-        "company_location": "Redmond, WA",
-        "role": "Software Engineer",
-        "team": "OneNote",
-        "time_duration": "Jun 2016 - Present",
+        "company": "DHL Supply Chain India Pvt. Ltd.",
+        "company_location": "Mumbai, MH",
+        "role": "Assistant Manager ",
+        "team": "WMS IT",
+        "time_duration": "Feb 2024 - Present",
         "details": [
         	{
-                "title": "Modern Hierarchy Sync",
-                "description": "Worked on a new sync platform which would load notebook structure and hierarchy faster than the current state of the art. Implemented client side representation of this hierarchy, derived from existing representation. Added functionality to be able use the new representation without the need of resetting cache or reloading the notebook. Built a small tool to visualize and debug this new representation.",
+                "title": "MAWM Active",
+                "description": "Configuration of MAWM Active project. EDI mapping and designing of API functional flows. Delivered successful SIT and UAT training programs ensuring smooth user adoption by DC operations team.",
                 "languages":"C++ nodejs"
             },
         	{
-                "title": "Notebook Cloud Migration",
-                "description": "Componentized native code from OneNote desktop app to convert local OneNote notebooks to cloud compatible notebooks. This was used in the new SharePoint Migration Tool.",
+                "title": "Analytics",
+                "description": "Implemented KPI dashboards (leveraging company SaaS platform) for enhanced visibility and data-driven decision making. Created insightful reports using IBM Cognos for comprehensive supply chain analysis. Developed dynamic dashboards on Power BI to facilitate real-time performance monitoring.",
                 "languages": "C++ C\\#"
             },
             {
-                "title": "Magic Ink Lookup and Whiteboard App",
-                "description": "Worked on recognizing ink strokes into words (using onboard IA) and recognizing keywords/entities given the context (using custom entity recognition service). Implemented accumulation of images and interactive widgets (from various online sources) related to the keyword, to be inserted onto Whiteboard canvas. Implemented sharing experience for the new collaboration focused Whiteboard app which included creating and joining a shared session.",
+                "title": "OS migration",
+                "description": "Successfully managed the complete end-to-end UAT of WMOS 2017 during the RHEL 8 Linux OS upgrade project, ensuring a smooth transition. (delivered in 75 days)",
                 "languages": "C++ C\\#"
-            },
-            {
-                "title": "Content Addins",
-                "description": "Implemented content addins, for OneNote desktop app, as small embedded web apps that would get hosted within managed WebView controls. Created their persistence model and rendering on the desktop app.",
-                "languages": "C++ nodejs"                
             }
         ]
     },
     {
-        "company": "Microsoft",
-        "company_location": "Vancouver, Canada",
-        "role": "Software Engineer",
-        "team": "OneNote",
-        "time_duration": "Nov 2014 - May 2016",
+        "company": "DHL Supply Chain India Pvt. Ltd.",
+        "company_location": "Mumbai, MH",
+        "role": "Graduate Engineering Trainee ",
+        "team": "WMS IT",
+        "time_duration": "Jul 2022 - Jan 2024",
         "details": [
             {
-                "title": "Embedded Videos and Web Content",
-                "description": "Worked on adding ability on OneNote to host web content, making sure it is backwards compatible. Implemented features to make handling and editing web content on the OneNote page easier. Added support for this feature on OneNote web app.",
+                "title": "WMOS 2017",
+                "description": "Led team in implementing WMS for a leading multinational footwear brand's omnichannel operations. Oversaw the entire UAT process, ensuring smooth system integration with marketplaces.",
                 "languages": "C++ C\\#"
             },
             {
-                    "title": "Merged Cells for Tables",
-                    "description": "Added support for spanned cells for tables in OneNote, keeping in mind backwards compatibility. Implemented these capabilities in OneNote web app.",
+                    "title": "Post Go-live support",
+                    "description": "Designed solutions for inventory optimization after system launch. Negotiated and delivered optimal solutions based on customer technical team requirements.",
                     "languages": "C++ C\\#"
             },
             {
-                "title": "Realtime Ink",
-                "description": "As a ramp up project, prototyped ink collaboration using SignalR web-sockets. Worked on experimenting load and delay with multiple inputs in realtime.",
+                "title": "Customer & Operational Support",
+                "description": "Addressed customer and operational needs related to printing, inventory reporting, and process improvement. Ensured customer satisfaction by consistently delivering optimal solutions.",
                	"languages": "C++ C\\#"
             }
         ]
     },
     {
-        "company": "Oracle",
-        "company_location": "Bangalore, India",
-        "role": "Software Engineering Intern",
-        "team": "Apps for Enterprises",
-        "time_duration": "May 2013 - July 2013",
+        "company": "DHL Supply Chain India Pvt. Ltd.",
+        "company_location": "Mumbai, MH",
+        "role": "Intern",
+        "team": "",
+        "time_duration": "Apr 2022 - May 2022",
         "details": [
             {
-                "title": "Containerization of iOS Apps",
-                "description": "Worked on sand-boxing of enterprise applications (containerization), enabling their installation on employee's iOS devices, without worrying about security concerns. Implemented wrapping of library function calls using swizzling, objective-c backend, linker flags and dynamic library injection.",
+                "title": "Comprehensive Warehouse Business Analysis",
+                "description": "Conducted a deep dive into warehouse operations, analyzing IT, transportation, and operational processes. Presented findings to senior leadership (Board of Vice Presidents).",
                 "languages": "Objective-C C"
             },
             {
-                "title": "Sandboxed Browser App",
-                "description": "Built a demo browser application for iOS. Containerized the app using the custom script, for it to work only for whitelisted urls.",
+                "title": "WMS Configuration",
+                "description": "Successfully configured a retail cosmetics business unit in WMOS 2017 (QA environment) after thoroughly studying the production environment. Demonstrated proficiency in WMS configuration.",
+                "languages": "Objective-C"
+            }
+        ]
+    },
+    {
+        "company": "Storaku LLP",
+        "company_location": "Mumbai, MH",
+        "role": "Founder & CEO",
+        "team": "",
+        "time_duration": "Sept 2020 - Mar 2022",
+        "details": [
+            {
+                "title": "",
+                "description": "Storaku an e- commerce company specializing in pop culture merchandising.",
+                "languages": "Objective-C C"
+            },
+            {
+                "title": "",
+                "description": "Secured funding and resources to drive business growth. Actively participated in generating product ideas and overseeing website development.",
+                "languages": "Objective-C"
+            },
+            {
+                "title": "",
+                "description": "Managed intern tasks and optimized operational logistics for efficient business operations.",
+                "languages": "Objective-C"
+            }
+        ]
+    },
+    {
+        "company": "Larsen & Toubro Limited",
+        "company_location": "Mumbai, MH",
+        "role": "Metallurgy Engineer Intern",
+        "team": "",
+        "time_duration": "Nov 2018 - May 2019",
+        "details": [
+            {
+                "title": "",
+                "description": "Conducted a metallurgical study on 310MoLN tubes at elevated temperatures, systematically analyzing microstructural changes and carbon corrosion. The primary objective of this study was to ascertain the optimum working temperature of these tubes within the context of a urea plant.",
+                "languages": "Objective-C C"
+            },
+            {
+                "title": "",
+                "description": "Developed an Impact Test Exemption Calculator utilizing VBA and referencing ASME standards. This innovative tool significantly streamlined the process of determining exemption factors, resulting in a remarkable 70% reduction in decision-making time.",
+                "languages": "Objective-C"
+            },
+            {
+                "title": "",
+                "description": "Management of a DISH seminar and underwent welding training.",
+                "languages": "Objective-C"
+            }
+        ]
+    },
+    {
+        "company": "Godrej & Boyce Mfg. Co. Ltd.",
+        "company_location": "Mumbai, MH",
+        "role": "Design Engineer Intern",
+        "team": "",
+        "time_duration": "Jun 2017 - Nov 2017",
+        "details": [
+            {
+                "title": "",
+                "description": "Modeling and drafting of material handling equipment on CREO 2.0",
+                "languages": "Objective-C C"
+            },
+            {
+                "title": "",
+                "description": "Designing of forklift overhead shaft.",
+                "languages": "Objective-C"
+            },
+            {
+                "title": "",
+                "description": "Served as an assistant in destructive testing and analysis of materials for quality assurance purposes using Hypermesh.",
                 "languages": "Objective-C"
             }
         ]
