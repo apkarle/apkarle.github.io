@@ -2,7 +2,13 @@
     {
         "school": "Pillai College of Engineering, New Panvel",
         "school_location": "Mumbai, India",
-        "degree": "Bachelor of Mechanical Engineering; CGPA 8.6/10",
+        "degree": "Bachelor of Mechanical Engineering ; CGPA 8.2/10",
         "time_period": "Jun 2019 - May 2022"
+    },
+    {
+        "school": "Shri Bhagubhai Mafatlal Polytechnic",
+        "school_location": "Mumbai, India",
+        "degree": "Diploma in Mechanical Engineering (Sandwich pattern); CGPA 8.71/10",
+        "time_period": "Jun 2015 - May 2019"
     }
 ]
