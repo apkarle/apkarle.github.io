@@ -9,7 +9,7 @@
         	{
                 "title": "MAWM Active",
                 "description": "Configuration of MAWM Active project. EDI mapping and designing of API functional flows. Delivered successful SIT and UAT training programs ensuring smooth user adoption by DC operations team.",
-                "languages":"MAWMA JSON "
+                "languages":"JSON ZPL"
             },
         	{
                 "title": "Analytics",
@@ -19,7 +19,7 @@
             {
                 "title": "OS migration",
                 "description": "Successfully managed the complete end-to-end UAT of WMOS 2017 during the RHEL 8 Linux OS upgrade project, ensuring a smooth transition. (delivered in 75 days)",
-                "languages": ""
+                "languages": "DAX"
             }
         ]
     },
@@ -33,17 +33,17 @@
             {
                 "title": "WMOS 2017",
                 "description": "Led team in implementing WMS for a leading multinational footwear brand's omnichannel operations. Oversaw the entire UAT process, ensuring smooth system integration with marketplaces.",
-                "languages": "C++ C\\#"
+                "languages": "JSON ZPL MS-Office"
             },
             {
                     "title": "Post Go-live support",
                     "description": "Designed solutions for inventory optimization after system launch. Negotiated and delivered optimal solutions based on customer technical team requirements.",
-                    "languages": "C++ C\\#"
+                    "languages": "SQL VBA"
             },
             {
                 "title": "Customer & Operational Support",
                 "description": "Addressed customer and operational needs related to printing, inventory reporting, and process improvement. Ensured customer satisfaction by consistently delivering optimal solutions.",
-               	"languages": "C++ C\\#"
+               	"languages": "SQL ZPL"
             }
         ]
     },
@@ -57,12 +57,12 @@
             {
                 "title": "Comprehensive Warehouse Business Analysis",
                 "description": "Conducted a deep dive into warehouse operations, analyzing IT, transportation, and operational processes. Presented findings to senior leadership (Board of Vice Presidents).",
-                "languages": "Objective-C C"
+                "languages": "VBA MS-Office"
             },
             {
                 "title": "WMS Configuration",
                 "description": "Successfully configured a retail cosmetics business unit in WMOS 2017 (QA environment) after thoroughly studying the production environment. Demonstrated proficiency in WMS configuration.",
-                "languages": "Objective-C"
+                "languages": "WMOS 2017"
             }
         ]
     },
@@ -76,17 +76,17 @@
             {
                 "title": "",
                 "description": "Storaku an e- commerce company specializing in pop culture merchandising.",
-                "languages": "Objective-C C"
+                "languages": ""
             },
             {
                 "title": "",
                 "description": "Secured funding and resources to drive business growth. Actively participated in generating product ideas and overseeing website development.",
-                "languages": "Objective-C"
+                "languages": "JIRA AWS"
             },
             {
                 "title": "",
                 "description": "Managed intern tasks and optimized operational logistics for efficient business operations.",
-                "languages": "Objective-C"
+                "languages": "MS-Office Illustrator"
             }
         ]
     },
@@ -100,17 +100,17 @@
             {
                 "title": "",
                 "description": "Conducted a metallurgical study on 310MoLN tubes at elevated temperatures, systematically analyzing microstructural changes and carbon corrosion. The primary objective of this study was to ascertain the optimum working temperature of these tubes within the context of a urea plant.",
-                "languages": "Objective-C C"
+                "languages": "MS-Office"
             },
             {
                 "title": "",
                 "description": "Developed an Impact Test Exemption Calculator utilizing VBA and referencing ASME standards. This innovative tool significantly streamlined the process of determining exemption factors, resulting in a remarkable 70% reduction in decision-making time.",
-                "languages": "Objective-C"
+                "languages": "Excel VBA"
             },
             {
                 "title": "",
                 "description": "Management of a DISH seminar and underwent welding training.",
-                "languages": "Objective-C"
+                "languages": ""
             }
         ]
     },
@@ -123,18 +123,18 @@
         "details": [
             {
                 "title": "",
-                "description": "Modeling and drafting of material handling equipment on CREO 2.0",
-                "languages": "Objective-C C"
+                "description": "Modeling and drafting of material handling equipment on Creo 2.0",
+                "languages": "Creo 2.0"
             },
             {
                 "title": "",
                 "description": "Designing of forklift overhead shaft.",
-                "languages": "Objective-C"
+                "languages": "Auto CAD"
             },
             {
                 "title": "",
                 "description": "Served as an assistant in destructive testing and analysis of materials for quality assurance purposes using Hypermesh.",
-                "languages": "Objective-C"
+                "languages": "Excel"
             }
         ]
     }
