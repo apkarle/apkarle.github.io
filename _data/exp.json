@@ -9,17 +9,17 @@
         	{
                 "title": "MAWM Active",
                 "description": "Configuration of MAWM Active project. EDI mapping and designing of API functional flows. Delivered successful SIT and UAT training programs ensuring smooth user adoption by DC operations team.",
-                "languages":"C++ nodejs"
+                "languages":"MAWMA JSON "
             },
         	{
                 "title": "Analytics",
                 "description": "Implemented KPI dashboards (leveraging company SaaS platform) for enhanced visibility and data-driven decision making. Created insightful reports using IBM Cognos for comprehensive supply chain analysis. Developed dynamic dashboards on Power BI to facilitate real-time performance monitoring.",
-                "languages": "C++ C\\#"
+                "languages": "Python SQL"
             },
             {
                 "title": "OS migration",
                 "description": "Successfully managed the complete end-to-end UAT of WMOS 2017 during the RHEL 8 Linux OS upgrade project, ensuring a smooth transition. (delivered in 75 days)",
-                "languages": "C++ C\\#"
+                "languages": ""
             }
         ]
     },
