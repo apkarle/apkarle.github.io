@@ -9,7 +9,7 @@
         	{
                 "title": "MAWM Active",
                 "description": "Configuration of MAWM Active project. EDI mapping and designing of API functional flows. Delivered successful SIT and UAT training programs ensuring smooth user adoption by DC operations team.",
-                "languages":"JSON ZPL"
+                "languages":"JSON ZPL GitLAB"
             },
         	{
                 "title": "Analytics",
@@ -33,7 +33,7 @@
             {
                 "title": "WMOS 2017",
                 "description": "Led team in implementing WMS for a leading multinational footwear brand's omnichannel operations. Oversaw the entire UAT process, ensuring smooth system integration with marketplaces.",
-                "languages": "JSON ZPL MS-Office"
+                "languages": "JSON ZPL GITLAB Jasper MS-Office"
             },
             {
                     "title": "Post Go-live support",
