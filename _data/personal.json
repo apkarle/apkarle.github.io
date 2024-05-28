@@ -1,39 +1,57 @@
 [
     {
         "name": "Apurva Karle",
-        "website": "http://kumarpallav.com",
+        "website": "",
         "email": "apurvakarle@gmail.com",
         "email2": "karleapurva@gmail.com",
         "phone": "+91 9594644507",
-        "linkedin":"https://www.linkedin.com/in/kumar-pallav-156a1657/",
-        "facebook":"https://www.facebook.com/pforpallav",
+        "linkedin":"https://www.linkedin.com/in/apurvakarle",
+        "facebook":"",
         "github":"https://github.com/apkarle",
         "languages": [
             {
-                "language": "C++"
+                "language": "Python"
             },
             {
-                "language": "C\\#"
+                "language": "SQL"
             },
             {
-                "language": "JavaScript"
+                "language": "JSON"
             },
             {
-                "language": "Java"
+                "language": "Jasper"
+            },
+            {
+                "language": "ZPL"
+            },
+            {
+                "language": "VBA"
+            },
+            {
+                "language": "DAX"
             },
             {
                 "language": "C"
+            },
+            {
+                "language": "C++"
             }
         ],
-        "technologies": [
+        "Applications": [
             {
-                "technology": "NodeJs"
+                "technology": "MAWM Active"
             },
             {
-                "technology": "UWP"
+                "technology": "WMOS2017"
             },
             {
-                "technology": "Win32"
+                "technology": "Jaspersoft"
+            },
+            {
+                "technology": "GitLab"
+            },
+            {
+                "technology": "IBM Cognos"
             }
         ]
     }
