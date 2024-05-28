@@ -37,7 +37,7 @@
                 "language": "C++"
             }
         ],
-        "Applications": [
+        "applications": [
             {
                 "technology": "MAWM Active"
             },
