@@ -52,6 +52,7 @@ end
 
 function printHeading(file)
   local json = getJsonFromFile(file)
+  print("JSON Content:", json) -- Debug output
   for key, value in pairs(json) do
     tex.print("\\begin{tabular*}{\\textwidth}{l@{\\extracolsep{\\fill}}r}")
 
