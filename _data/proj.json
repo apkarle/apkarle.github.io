@@ -1,22 +1,27 @@
 [
     {
-        "title": "Course Allotment Simulation using SAT Solver",
-        "description": "As part of Bachelors project, worked on solving the real world problem of finding a best course allocation under various constraints as a SAT (Satisfiability) problem and infer effects of different policies on course allotment and choices. Studied relative efficiency of various heuristics modeled on different solvers like MiniSAT and Glucose.",
-        "languages": "C++ MiniSAT Glucose"
+        "title": "Resume Webpage",
+        "description": "A json based resume webpage. Made to work with jekyll based github-pages. Same json sources can be used to render a pdf using lualatex.",
+        "languages": "JASON LATEX"
     },
     {
-        "title": "IIT Bombay Hospital Digitization",
-        "description": "Created a complete web application in Java that could handle operations on relational MySQL databases to handle various processes of the university hospital.",
-        "languages": "Java MySQL"
+        "title": "Impact Exemption Calculator",
+        "description": "An Excel VBA based API to compare ASME charts and codes. One stop solution to declare exemption criteria of existing as well as new materials.",
+        "languages": "Excel VBA"
     },
     {
-        "title": "Simple 2D Physics Engine",
-        "description": "Wrote a physics engine for simple round bodies providing a back-end that could generate coordinates in real-time with collision, gravity, restitution and custom resolution of time.",
-        "languages": "C++"
+        "title": "Project Based Learning 'Fidget Spinner’",
+        "description": "Studying the gyroscopic effect on the spinner under use of various materials and rapid prototyping processes.",
+        "languages": "Ansys"
     },
     {
-        "title": "Social Sea",
-        "description": "Create a lightweight social search engine that shows the results ranked (using page-ranking) according to one's peer-group search history and rating.",
-        "languages": "PHP HTML javascript"
+        "title": "Parametric Modeling of industrial component using SolidWorks & VBA",
+        "description": "Wrote a VBA program with front end UI for a MSME manufacturing custom special component.",
+        "languages": "VBA SolidWorks"
+    },
+    {
+        "title": "Smart Convertibles",
+        "description": "Modern space saving solutions: Using DOMS and CAD fabricated compact folding-expanding picnic table and umbrella locker.",
+        "languages": "CAD"
     }
 ]
