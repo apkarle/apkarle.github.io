@@ -8,7 +8,7 @@
         "details": [
         	{
                 "title": "MAWM Active",
-                "description": "Configuration of MAWM Active project. EDI mapping and designing of API functional flows. Delivered successful SIT and UAT training programs ensuring smooth user adoption by DC operations team.",
+                "description": "Conducted UAT of D2M warehouse and operations training. Development and maintenance of  ZPL and Jasper reports. Configuration of WELSPUN DC for system driven putaway with EDI interfacing.",
                 "languages":"JSON ZPL GitLAB"
             },
         	{
@@ -32,7 +32,10 @@
         "details": [
             {
                 "title": "WMOS 2017",
-                "description": "Led team in implementing WMS for a leading multinational footwear brand's omnichannel operations. Oversaw the entire UAT process, ensuring smooth system integration with marketplaces.",
+                "description": "Implementating of NIKE omnichannel warehouse. End to end system integration SIT and UAT with Myntra and Flipkart systems including API payload testing and ,mapping. Printing config  of invoice, shipping label and carton label with single print command  at 50+ pack stations.
+Configuration of item master, case as well as item level receiving of ASN, system driven put-away, zoning and slotting locations, sorting putwall, anchor carton, cycle count, pick/pack to tote/carton, pick/pack cart, shipment and manifesting using system for NIKE, Loreal and Custom Bonded warehouses. 
+Printing of multiple documents using a single print queue was configured for B2C operations.
+",
                 "languages": "JSON ZPL GITLAB Jasper MS-Office"
             },
             {
@@ -63,20 +66,6 @@
                 "title": "WMS Configuration",
                 "description": "Successfully configured a retail cosmetics business unit in WMOS 2017 (QA environment) after thoroughly studying the production environment. Demonstrated proficiency in WMS configuration.",
                 "languages": "WMOS 2017"
-            }
-        ]
-    },
-    {
-        "company": "Storaku LLP",
-        "company_location": "Mumbai, MH",
-        "role": "Founder & CEO",
-        "team": "",
-        "time_duration": "Sept 2020 - Mar 2022",
-        "details": [
-            {
-                "title": "Bussiness Overview",
-                "description": "Storaku an e- commerce company specializing in pop culture merchandising.Secured funding and resources to drive business growth. Actively participated in generating product ideas and overseeing website development.Managed intern tasks and optimized operational logistics for efficient business operations.",
-                "languages": JIRA AWS MS-Office Illustrator"
             }
         ]
     },
