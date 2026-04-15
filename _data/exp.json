@@ -1,4 +1,28 @@
 [
+     {
+        "company": "Infosys",
+        "company_location": "Mumbai, MH",
+        "role": "Assistant Manager ",
+        "team": "WMS IT",
+        "time_duration": "Feb 2024 - Present",
+        "details": [
+        	{
+                "title": "MAWM Active",
+                "description": "Conducted UAT of D2M warehouse and operations training. Development and maintenance of  ZPL and Jasper reports. Configuration of WELSPUN DC for system driven putaway with EDI interfacing.",
+                "languages":"JSON ZPL GitLAB"
+            },
+        	{
+                "title": "Analytics",
+                "description": "Implemented KPI dashboards (leveraging company SaaS platform) for enhanced visibility and data-driven decision making. Created insightful reports using IBM Cognos for comprehensive supply chain analysis. Developed dynamic dashboards on Power BI to facilitate real-time performance monitoring.",
+                "languages": "Python SQL"
+            },
+            {
+                "title": "OS migration",
+                "description": "Successfully managed the complete end-to-end UAT of WMOS 2017 during the RHEL 8 Linux OS upgrade project, ensuring a smooth transition. (delivered in 75 days)",
+                "languages": "DAX"
+            }
+        ]
+    },
     {
         "company": "DHL Supply Chain India Pvt. Ltd.",
         "company_location": "Mumbai, MH",
